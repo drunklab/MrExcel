@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block blockType="table">
+	<cell>
+		<x>12</x>
+		<y>1</y>	
+		<key>id</key>
+		<value></value>
+	</cell>
+	<cell>
+		<x>12</x>
+		<y>2</y>	
+		<key>servicename</key>
+		<value></value>
+	</cell>
+	<cell>
+		<x>12</x>
+		<y>3</y>	
+		<key>rcvmsgcd</key>
+		<value></value>		
+	</cell>
+	<cell>
+		<x>12</x>
+		<y>4</y>	
+		<key>serviceid</key>
+		<value></value>		
+	</cell>
+	<cell>
+		<x>12</x>
+		<y>5</y>	
+		<key>authappcd</key>
+		<value></value>		
+	</cell>
+</block>

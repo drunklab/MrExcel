@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block blockType="unstruct">
+	<cell>
+		<x>1</x>
+		<y>1</y>	
+		<key>pagetitle</key>
+	</cell>
+	<cell>
+		<x>2</x>
+		<y>2</y>	
+		<key>appname</key>
+	</cell>
+	<cell>
+		<x>2</x>
+		<y>4</y>	
+		<key>appcode</key>
+	</cell>
+	<cell>
+		<x>3</x>
+		<y>2</y>	
+		<key>remark</key>
+			
+	</cell>
+	<cell>
+		<x>7</x>
+		<y>2</y>	
+		<key>pm</key>
+			
+	</cell>
+	<cell>
+		<x>7</x>
+		<y>4</y>	
+		<key>pmtel</key>
+			
+	</cell>		
+	<cell>
+		<x>8</x>
+		<y>2</y>	
+		<key>esbman1</key>
+			
+	</cell>		
+	<cell>
+		<x>8</x>
+		<y>4</y>	
+		<key>esbtel1</key>
+			
+	</cell>	
+	<cell>
+		<x>9</x>
+		<y>2</y>	
+		<key>esbman2</key>
+
+	</cell>	
+	<cell>
+		<x>9</x>
+		<y>4</y>	
+		<key>esbtel2</key>
+	</cell>					
+</block>
